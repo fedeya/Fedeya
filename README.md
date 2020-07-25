@@ -10,7 +10,7 @@
 
 <ul align="center" class="none">
   
-<li class="none"> 🔭 I’m currently working on <a href="https://github.com/faztcommunity">Fazt Community</a> </li>
+- 🔭 I’m currently working on [Fazt Community](https://github.com/faztcommunity)</li>
 - 🌱 I’m currently learning Jest Testing
 
 </ul>
