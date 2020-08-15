@@ -11,14 +11,6 @@
 <ul align="center" class="none">
   
 - 🔭 I’m currently working on [Fazt Community](https://github.com/faztcommunity)</li>
-- 🌱 I’m currently learning Jest Testing
+- 🌱 I’m currently learning RxJS
 
 </ul>
-
----
-
-<div align="center">
-
-![Fedeya github stats](https://github-readme-stats.vercel.app/api?username=Fedeya&theme=tokyonight&show_icons=true&count_private=true)
-
-</div>
