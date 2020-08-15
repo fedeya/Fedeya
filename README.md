@@ -8,9 +8,5 @@
 
 </div>
 
-<ul align="center" class="none">
-  
 - 🔭 I’m currently working on [Fazt Community](https://github.com/faztcommunity)</li>
 - 🌱 I’m currently learning RxJS
-
-</ul>
