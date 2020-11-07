@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Golang GUI**
 
-- 👨‍💻 All of my projects are available at [https://www.fedeya.tk](https://www.fedeya.tk)
+- 👨‍💻 All of my projects are available at [fedeya.tk](https://www.fedeya.tk)
 
 - 💬 Ask me about **ts => backend && frontend**
 
