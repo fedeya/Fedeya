@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [lol-save-builds](https://github.com/Fedeya/lol-save-builds)
 
-- 🌱 I’m currently learning **Flutter and C#**
+- 🌱 I’m currently learning **Elixir#**
 
 - 👨‍💻 All of my projects are available at [fedeya.tk](fedeya.tk)
 
