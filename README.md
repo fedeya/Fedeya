@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fedeya&label=Profile%20views&color=0e75b6&style=flat" alt="fedeya" /> </p>
 
-- 🔭 I’m currently working on [lol-save-builds](https://github.com/Fedeya/lol-save-builds)
-
 - 🌱 I’m currently learning **Elixir**
-
-- 👨‍💻 All of my projects are available at [fedeya.tk](fedeya.tk)
 
 - 💬 Ask me about **all**
 
