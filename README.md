@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fedeya&label=Profile%20views&color=0e75b6&style=flat" alt="fedeya" /> </p>
 
-- 🌱 I’m currently learning **Elixir**
+- 🌱 I’m currently learning **Web Perfomance**
 
 - 💬 Ask me about **all**
 
