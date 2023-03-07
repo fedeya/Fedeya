@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **all**
 
-- 📫 How to reach me **elfedeminaya@gmail.com**
+- 📫 How to reach me **hello@fedeminaya.com**
 
 - 📄 [Know about my experiences](https://drive.google.com/file/d/1tozlAmq2sG1NWFSDrKTgkiK6D3vngfb3/view?usp=sharing)
 
