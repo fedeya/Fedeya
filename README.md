@@ -5,6 +5,10 @@
 
 - 🌱 I’m currently improving my **Web Perfomance** skills
 
+- 👨‍💻 All of my projects are available at [fedeminaya.com](https://fedeminaya.com)
+
+- 📝 I regularly write articles on [fedeminaya.com/blog](https://fedeminaya.com/blog)
+
 - 💬 Ask me about **all**
 
 - 📫 How to reach me **hello@fedeminaya.com**
