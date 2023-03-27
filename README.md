@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hello@fedeminaya.com**
 
-- 📄 [Know about my experiences](https://drive.google.com/file/d/1tozlAmq2sG1NWFSDrKTgkiK6D3vngfb3/view?usp=sharing)
+- 📄 Know about my experiences [fedeminaya.com/cv](https://fedeminaya.com/cv)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
