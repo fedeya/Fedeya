@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fedeya&label=Profile%20views&color=0e75b6&style=flat" alt="fedeya" /> </p>
 
-- 🌱 I’m currently improving my **Web Perfomance** skills
+- 🌱 I’m currently learning about **Vim and Three.js**
 
 - 👨‍💻 All of my projects are available at [fedeminaya.com](https://fedeminaya.com)
 
